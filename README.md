@@ -1,4 +1,5 @@
 # awesome_okapi
+
 Awesome Okapi_v1 is a cybersecurity penetration-testing and security-assessment platform designed for authorized security professionals, penetration testers, cybersecurity students, red teams, blue teams, security researchers, and organizations conducting controlled security assessments.
 
 The platform provides a centralized interface for managing authorized cybersecurity testing activities. Its architecture is designed to connect approved communication channels with controlled security-testing environments, allowing operators to submit predefined testing tasks and receive structured results without giving messaging accounts unrestricted access to operating-system shells.
