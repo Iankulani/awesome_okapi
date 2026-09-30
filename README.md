@@ -1,4 +1,5 @@
 # awesome_okapi
+<div align="center">
 
 [![GitHub stars](https://img.shields.io/github/stars/Iankulani/awesome_okapi?style=for-the-badge&logo=github)](https://github.com/Iankulani/awesome_okapi/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Iankulani/awesome_okapi?style=for-the-badge&logo=github)](https://github.com/Iankulani/awesome_okapi/network)
@@ -12,6 +13,8 @@
 [![API](https://img.shields.io/badge/API-Supported-blue?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Iankulani/awesome_okapi)
 [![Docker](https://img.shields.io/badge/Docker-Supported-blue?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Iankulani/awesome_okapi)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Project-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/Iankulani/awesome_okapi)
+
+</div>
 
 Awesome Okapi_v1 is a cybersecurity penetration-testing and security-awareness platform designed for authorized security professionals, penetration testers, researchers, and cybersecurity students. The platform provides a centralized way to manage approved security-testing activities through Discord, Telegram, Slack, Google Chat, WhatsApp, Signal, and a web application.
 
